@@ -1,1 +1,15 @@
 
+{
+  "department": [
+    { "departmentID": 1, "departmentName": "IT" },
+    { "departmentID": 2, "departmentName": "Finance" },
+    { "departmentID": 3, "departmentName": "Marketing" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
