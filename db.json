@@ -1,9 +1,9 @@
 
 {
   "department": [
-    { "departmentID": 1, "departmentName": "IT" },
-    { "departmentID": 2, "departmentName": "Finance" },
-    { "departmentID": 3, "departmentName": "Marketing" }
+    { "id":1, "departmentID": 1, "departmentName": "IT" },
+    { "id":2, "departmentID": 2, "departmentName": "Finance" },
+    { "id":3, "departmentID": 3, "departmentName": "Marketing" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
